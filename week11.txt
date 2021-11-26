@@ -1,1 +1,4 @@
 start of week 11
+name: kai
+branch: week11 branch
+city: thunder bay
